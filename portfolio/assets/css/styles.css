@@ -27,6 +27,16 @@ section{
 	background-color: #052D3D;
 }
 
+.section-2 img{
+	height: 100px;
+	width: fit-content;
+}
+
+.image {
+	display: flex;
+	justify-content: center;
+}
+
 .section-3 {
 	background-color: #0E282E;
 }
