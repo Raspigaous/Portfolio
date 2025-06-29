@@ -1,7 +1,7 @@
 html, body{
 	font-size:16px;
-	color: #dfdfdf;
-	background-color: #063647; 
+	color: #000000;
+	background-color: #F5F9FC; 
 }
 
 a {
@@ -20,11 +20,11 @@ section{
 }
 
 .section-1 {
-	background: #063647;
+	background: #c5e4f5 ;
 }
 
 .section-2 {
-	background-color: #052D3D;
+	background-color: #D9EDF3 ;
 }
 
 .section-2 img{
@@ -38,20 +38,20 @@ section{
 }
 
 .section-3 {
-	background-color: #0E282E;
+	background-color: #EAF3F8 ;
 }
 
 .section-4 {
-	background-color: #063647;
+	background-color: #D9EDF3 ;
 	padding: 0.2rem;
 }
 
 a.nav-item {
-	color: #dfdfdf;
+	color: #000000;
 }
 
 a.nav-item:hover {
-	color: #fff;
+	color: #000000;
 }
 
 .avatar{
@@ -83,7 +83,7 @@ a.nav-item:hover {
 .box {
   flex-wrap: nowrap;
 	background-color: transparent;
-	border: 2px solid rgba(7, 59, 79, 0.5);
+	border: 2px solid #4a7d97;
   min-width: 400px;
   min-height: 200px;
 }
@@ -93,7 +93,7 @@ a.nav-item:hover {
 }
 
 .title {
-	color: #fff;
+	color: #000000;
 	text-align: left;
 	margin-bottom: 2rem;
 }
